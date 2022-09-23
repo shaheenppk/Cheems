@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//© 2022 Xeon Bot Inc. Shaheen Baloch 
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
@@ -26,12 +26,12 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz: 'https://youtu.be/DLFzQCZFfP0',
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://youtu.be/DLFzQCZFfP0': 'your key',
 }
 
 
@@ -63,10 +63,10 @@ global.location = "Pakistan, Rahimyar, Khan" //ur location
 //bot bomdy 
 global.owner = ['923087609409']
 global.ownertag = '923087609409' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/3aTmvG_2LDg" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3aTmvG_2LDg" //ur website to be displayed
-global.botscript = 'https://youtu.be/3aTmvG_2LDg' //script link
+global.botname = 'Shaheen Baloch' //ur bot name
+global.linkz = "https://youtu.be/DLFzQCZFfP0" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/DLFzQCZFfP0" //ur website to be displayed
+global.botscript = 'https://youtu.be/DLFzQCZFfP0' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Shaheen\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname

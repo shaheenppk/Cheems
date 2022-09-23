@@ -26,12 +26,12 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://youtu.be/DLFzQCZFfP0',
+	zenz: 'https://zenzapis.xyz',
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://youtu.be/DLFzQCZFfP0': 'your key',
+	'https://zenzapis.xyz': 'your key',
 }
 
 
